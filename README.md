@@ -1,6 +1,6 @@
 # A Online chat project
 ### A online chat based on Web Socket Server
-Este repositório contém o código-fonte para um chat online simples que usa o protocolo WSS (WebSocket Secure). O chat permite que os usuários conversem em tempo real entre si.
+Este repositório contém o código-fonte para um chat online simples que usa o protocolo WSS (WebSocket Server). O chat permite que os usuários conversem em tempo real entre si.
 
 **Funcionalidades:**
 * Troca de mensagens em tempo real
